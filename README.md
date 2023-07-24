@@ -9,7 +9,16 @@ Segmenting coins using different approaches:
 - Watershed Alogrithm
 - ML based Segmentation with YOLOv8
 
-<!-- ## 👾 Demo
+## 👾 Demo
 
 ### Hough-Transform
-![HoughTransform](./demo/hough-3.jpeg) -->
+![Hough Transform](/demo/hough-3.png "Hough")
+
+### Canny Edge Detection
+![Canny Edge](/demo/canny-2.png "Canny")
+
+### Watershed Algorithm
+![Watershed](/demo/watershed-1.png "Watershed")
+
+### Segmentation with YOLOv8
+![YOLOv8 Segmentation](/demo/ml-seg.gif "ML-Segmentation")
